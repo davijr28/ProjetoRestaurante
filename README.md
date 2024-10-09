@@ -1,2 +1,2 @@
 # ProjetoRestaurante
-Programa de orientação a objetos que armazena e imprime dados do restaurante.
+Programa de orientação a objetos que lê e imprime dados do restaurante.
